@@ -8,4 +8,8 @@ class User {
         this.passwrd = passwrd;
     }
     
+
+    usernameValidation(id, name){
+        return '';
+    }
 }
